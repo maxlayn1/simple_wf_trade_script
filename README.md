@@ -7,9 +7,9 @@ AutoHotkey v2.0+ can be found here: https://www.autohotkey.com
 
 ## Usage
 Run the file using AutoHotkey once tabbed into a text channel in Warframe. There are a few keybinds to make using the script a bit easier:
-- CTRL + M will bring up a prompt to enter a message, which will be repeatedly output every two minutes.
-- CTRL + J will start running the script, outputting the default message of 'WTB' if no message is entered.
-- CTRL + P will pause the script, stopping output until the keybind is pressed again to resume input.
+- CTRL + m will bring up a prompt to enter a message, which will be repeatedly output every two minutes.
+- CTRL + j will start running the script, outputting the default message of 'WTB' if no message is entered.
+- CTRL + p will pause the script, stopping output until the keybind is pressed again to resume input.
 
 ## Other Notes
 - The script will automatically swap to Warframe.x64.exe to enter the output.
