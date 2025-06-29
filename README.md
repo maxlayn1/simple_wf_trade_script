@@ -3,7 +3,7 @@ Simple Warframe script to auto type a message in trade chat every two minutes
 
 ## Installation
 Download 'trade_chat_auto.ahk' and AutoHotkey v2.0+. 
-Autohotkey can be found here: https://www.autohotkey.com
+AutoHotkey v2.0+ can be found here: https://www.autohotkey.com
 
 ## Usage
 Run the file using AutoHotkey once tabbed into a text channel in Warframe. There are a few keybinds to make using the script a bit easier:
